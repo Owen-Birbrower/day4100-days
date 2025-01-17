@@ -1,0 +1,7 @@
+print("\033[35m","==LOST IN SPACE==","\033[0m")
+name = input("What is your name? ")
+planet = input("What is your favorite planet in our solar system? ")
+print(name, "wakes up from a short nap")
+print("\033[31m", "ALERT ALERT ALERT", "\033[0m""- Oxygen low")
+print(planet, "is very far from Earth", name, "thinks")
+print("\033[31m", "ALERT ALERT ALERT" "\033[0m","- 60s of oxygen remaining")
